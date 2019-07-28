@@ -20,3 +20,5 @@ Tidiness charactaristics are:
 > 2- Every Observation is a row
 
 > 3- Every Observational unit is a table
+
+Through this project, we will be detecting eight quality issues and 2 tidiness problems and correct them. the main objective of this project is to follow the smooth process of analyzing data. Therfore, let us begin. 
