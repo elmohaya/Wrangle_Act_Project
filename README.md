@@ -22,3 +22,6 @@ Tidiness charactaristics are:
 > 3- Every Observational unit is a table
 
 Through this project, we will be detecting eight quality issues and 2 tidiness problems and correct them. the main objective of this project is to follow the smooth process of analyzing data. Therfore, let us begin. 
+
+## Gathering Data
+the first part of this project is about downloading data from the internet. we applied both programmatical and manual downloading technices. At the end of this stage, we aquired three files where two of them are csv files and the last is txt file.
